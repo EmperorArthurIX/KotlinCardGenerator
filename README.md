@@ -1,4 +1,4 @@
-# [Kotlin Card Generator]()
+# [Kotlin Card Generator](https://emperorarthurix.github.io/KotlinCardGenerator/)
 
 This application receives user-input from a Kotlin Source File through the Command Line, parsed as query parameters. JavaScript then renders this information on the screen.
 
@@ -8,7 +8,7 @@ The main idea is to generate a card for the user using query parameters in the U
 
 If a parameter is not included in the query, it's default value is printed in the card.
 
-We will use this link as the ```base``` URL, after which query parameters may be inserted after a question mark:
+We will use this link ```https://emperorarthurix.github.io/KotlinCardGenerator``` as the ```base``` URL, after which query parameters may be inserted after a question mark:
 
 - By running the Kotlin File in the Command Line
 - By making the query string by hand
