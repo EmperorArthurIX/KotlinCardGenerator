@@ -4,7 +4,7 @@ import kotlin.UByte
 
 fun main()
 {
-    val url = "http://localhost:63342/-1fzdyqhjplm33a7t1su6x13o6n8kchfydsfht/KotlinBasics/com/example/kotlinbasics/index.html"
+    val url = "https://emperorarthurix.github.io/KotlinCardGenerator"
     var confirmDetails: Boolean?             // = null
     var name: String?             // = null
     var email: String?             // = null
