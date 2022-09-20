@@ -15,7 +15,7 @@ We will use this link as the ```base``` URL, after which query parameters may be
 
 ## Parameters
 
-### ```name```
+### name
 
 - Single Word:
 ```base?name=firstName```
@@ -23,25 +23,25 @@ We will use this link as the ```base``` URL, after which query parameters may be
 - Multiple Words:
 ```base?name=firstName%20middleName%20lastName```
 
-### ```email```
+### email
 ```base?email=youremail@example.com```
 
-### ```phone```
+### phone
 ```base?phone=yourPhoneNumber```
 
-### ```address```
+### address
 ```base?address=very%20long%20string%20without%20special%20characters```
 
-### ```day```
+### day
 ```base?day=dayOfBirthAsNumber```
 
-### ```month```
+### month
 ```base?month=monthOfBirthAsNumber```
 
-### ```year```
+### year
 ```base?year=yearOfBirthAsNumber```
 
-### ```image```
+### image
 ```base?image=linkToImageOnline```
 
 ## Format
