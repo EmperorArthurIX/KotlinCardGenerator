@@ -1,0 +1,37 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.wrapper
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-shrink: 1;
+    flex-grow: 1;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: justify;
+}
+#img
+{
+    max-width: 50vw;
+    max-height: 100vh;
+}
+#img img
+{
+    width: 50vw;
+}
+#hero
+{
+    width: fit-content;
+    font-family: 'Vivaldi', sans-serif;
+    font-size: 4vh;
+}
+#name
+{
+    font-size: 10vh;
+}
